@@ -1,6 +1,6 @@
 # Flight Deals Alert
 
-The purpose of this application is to help the you find the best and cheapest flights that meet the users price range! Just connect a Google Sheets with the name of your cities and the maximum price you'd like to pay for it. Then all you have to do is wait for the program to find the best deals and you should receive that text message with all the best flights to your destinations.  
+The purpose of this application is to help you find the best and cheapest flights that meet the users price range! Just connect a Google Sheets with the name of your cities and the maximum price you'd like to pay for it. Then all you have to do is wait for the program to find the best deals and you should receive that text message with all the best flights to your destinations.  
 
 ## How It Works
 
